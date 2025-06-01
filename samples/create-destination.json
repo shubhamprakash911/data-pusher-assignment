@@ -1,0 +1,12 @@
+{
+  "url": "https://webhook.site/your-webhook-id",
+  "httpMethod": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer token123",
+    "APP_ID": "1234APPID1234",
+    "APP_SECRET": "enwdj3bshwer43bjhjs9ereuinkjcnsiurew8s",
+    "ACTION": "user.update"
+  },
+  "accountId": "your-account-id"
+}

@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 12345,
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "action": "user.update",
+  "timestamp": "2025-06-01T15:10:00Z",
+  "metadata": {
+    "source": "web",
+    "ip": "192.168.1.1"
+  }
+}
